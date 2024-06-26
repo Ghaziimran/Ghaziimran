@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Projects that i can add to my portfolio
 - 📫 How to reach me ... My email address is ghaziimran2105@gmail.com
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I am completely self taught. I have learnt to code form scratch
+- ⚡ Fun fact: ... I am completely self taught. I have learnt to code from scratch
 
 <!---
 Ghaziimran/Ghaziimran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
