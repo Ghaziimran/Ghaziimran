@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghaziimran
 - 👀 I’m interested in ... Sports such as cricket and Football
-- 🌱 I’m currently learning ... to become a Front-end Developer 
+- 🌱 I’m currently learning ... Php, to improve my Front-end Developer skills.
 - 💞️ I’m looking to collaborate on ... Projects that i can add to my portfolio
 - 📫 How to reach me ... My email address is ghaziimran2105@gmail.com
 - 😄 Pronouns: ... he/him
